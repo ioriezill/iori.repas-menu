@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: 'Yu Mincho';
   max-width:100%;
-  background-image:url(/images/menu-girl.png);
+  background-image:url(menu-girl.png);
 }
 
 .container {
