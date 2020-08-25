@@ -123,8 +123,7 @@ a:visited{
 }
 
 .menu-account img{
-  width:170px;
-  height:100%;
+  max-width:170px;
   padding-right:15px;
 }
 
