@@ -124,8 +124,13 @@ a:visited{
 
 .menu-account img{
   width:170px;
-  height:250px;
+  height:140px;
   padding-right:15px;
+}
+
+.img-beer{
+  width:170px;
+  hwight:250px;
 }
 
 .menu-account{
